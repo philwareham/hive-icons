@@ -1,0 +1,5 @@
+h2. More details coming soon
+
+h2. License
+
+Released under "MIT licence":http://www.opensource.org/licenses/mit-license.php.
