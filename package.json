@@ -1,0 +1,18 @@
+{
+  "name": "hive-icons",
+  "description": "A free collection of replacement icons for jQuery UI, available in SVG and PNG formats (along with source files).",
+  "version": "1.0.0",
+  "keywords": [
+    "jquery-ui",
+    "icons",
+    "svg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philwareham/hive-icons"
+  },
+  "bugs": {
+    "url": "https://github.com/philwareham/hive-icons/issues"
+  }
+  "license": "MIT"
+}
