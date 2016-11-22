@@ -1,7 +1,0 @@
-h1. SVG/PNG icon sprite, compatible with jQuery UI
-
-Redesigned icon sprite primarily for use with jQuery UI (but can be used independently) - supplied as both SVG and PNG format, along with the original source files.
-
-h2. License
-
-Released under "MIT license":http://opensource.org/licenses/mit-license.html
