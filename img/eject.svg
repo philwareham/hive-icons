@@ -1,1 +1,1 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'><rect x='4' y='10' width='8' height='2'/><polygon points='12,9 4,9 8,4'/></svg>
+<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'><path d='M4 10h8v2H4zM12 9H4l4-5z'/></svg>
