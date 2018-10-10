@@ -6,4 +6,4 @@ Icon sprite primarily for use with jQuery UI as a replacement for the original i
 
 ## License
 
-Released under [MIT license](http://opensource.org/licenses/mit-license.html).
+Released under [MIT license](https://opensource.org/licenses/mit-license.html).
