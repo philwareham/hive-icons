@@ -1,9 +1,11 @@
-# Hive icons: SVG/PNG icon sprite, compatible with jQuery UI
+# Hive icons: SVG/PNG icon sprite and individual SVG icon files, compatible with jQuery UI
 
-Icon sprite primarily for use with jQuery UI as a replacement for the original icon sprite (but can be used independently, of course) - supplied as both SVG and PNG format, along with the original source files.
+16px × 16px icons supplied as both individual SVG files and as SVG/PNG icon sprite formats (`@1x` and `@2x` resolutions), along with the original binary source files (`.ai` and `.psd`).
 
-![Hive icons](https://github.com/philwareham/hive-icons/blob/master/img/ui-icon-sprite.png)
+The icon sprite is compatible with jQuery UI, as a replacement for their original icon sprite.
+
+![Hive icons](https://github.com/philwareham/hive-icons/blob/master/img/ui-icon-sprite@2x.png)
 
 ## License
 
-Released under [MIT license](https://opensource.org/licenses/mit-license.html).
+Licensed under MIT license.
